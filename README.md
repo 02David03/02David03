@@ -10,7 +10,7 @@
 
 ###
 
-<p align="center">I'm a Computer Scientist graduated at Federal University of Sergipe(UFS)</p>
+<h3 align="center">I'm a Computer Scientist graduated at Federal University of Sergipe(UFS)</h3>
 
 ###
 
