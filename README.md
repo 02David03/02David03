@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="600" src="https://preview.redd.it/oso1a9anldm31.png?width=1080&crop=smart&auto=webp&s=57d025909d95328d38477e1042203a463bf551aa"  />
+  <img height="550" src="https://preview.redd.it/oso1a9anldm31.png?width=1080&crop=smart&auto=webp&s=57d025909d95328d38477e1042203a463bf551aa"  />
 </div>
 
 ###
@@ -54,11 +54,11 @@
 
 ###
 
-<span height="75"></span> <!--invisible-->
+<span height="50"></span> <!--invisible-->
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=02David03&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5" height="175" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=02David03&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true" height="175" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=02David03&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=02David03&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true" height="150" alt="stats graph"  />
 </div>
 
 <div align="center">
